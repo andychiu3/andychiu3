@@ -4,7 +4,7 @@ Hi, I am **Andy Chiu**
 
 [42](https://42.fr/) Alumnus
 
-## Tech Stack
+## 💻 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -26,12 +26,14 @@ Hi, I am **Andy Chiu**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
 
-## Currently expanding
+## 📚 Currently expanding
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
 
-## Projects
+<br>
+
+## 💼 Projects
 
 [ft_transcendence](https://authplay.vercel.app) - Full-stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
