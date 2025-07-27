@@ -65,7 +65,7 @@ Hi, I am **Andy Chiu**
 - Unix shell implementation with AST-based command parsing and process management
 - System-level programming and command parsing
 
-
+![Snake animation](https://github.com/andychiu3/andychiu3/blob/output/github-contribution-grid-snake.svg)
 
 
 
