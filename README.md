@@ -12,6 +12,8 @@ Hi, I am **Andy Chiu**
 ![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=flat)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andychiu3&layout=compact&langs_count=7&theme=dracula"/>
+
 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)
@@ -25,6 +27,7 @@ Hi, I am **Andy Chiu**
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+
 
 ## 📚 Currently expanding
 
@@ -65,7 +68,10 @@ Hi, I am **Andy Chiu**
 - Unix shell implementation with AST-based command parsing and process management
 - System-level programming and command parsing
 
-![Snake animation](https://github.com/andychiu3/andychiu3/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  
+  ![Snake animation](https://github.com/andychiu3/andychiu3/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
 
