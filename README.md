@@ -38,7 +38,7 @@ Hi, I am **Andy Chiu**
 
 ## 💼 Projects
 
-[transcendence](https://authplay.vercel.app) - Full-stack
+[transcendence](https://authplay.vercel.app) - Full-stack *(collaborative development)*
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -51,7 +51,7 @@ Hi, I am **Andy Chiu**
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
-- multiple authentications, user management, multi player game, and tournament system *(collaborative development)*
+- multiple authentications, user management, multi player game, and tournament system  
 - deployed frontend on Vercel, backend and websocket on Render (free tier may cause latency)
 
 [ft_irc](https://github.com/andychiu3/ft_irc) - Network Server Implementation *(collaborative development)*
