@@ -14,14 +14,16 @@ Hi, I am **Andy Chiu**
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andychiu3&layout=compact&langs_count=7&theme=dracula"/>
 
-
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat)
@@ -31,7 +33,7 @@ Hi, I am **Andy Chiu**
 
 ## 📚 Currently expanding
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
 
 <br>
