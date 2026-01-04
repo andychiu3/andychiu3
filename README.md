@@ -14,6 +14,7 @@ Hi, I am **Andy Chiu**
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andychiu3&layout=compact&langs_count=7&theme=dracula"/>
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat)
@@ -33,7 +34,6 @@ Hi, I am **Andy Chiu**
 
 ## 📚 Currently expanding
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
 
 <br>
