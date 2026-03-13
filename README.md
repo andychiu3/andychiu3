@@ -2,8 +2,6 @@
 
 Hi, I am **Andy Chiu** 
 
-[42](https://42.fr/) Alumnus
-
 ## 💻 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
